@@ -1,12 +1,71 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\ManjunathK\\Desktop\\MiscIncome\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B70EEBCD-549F-412B-A21E-65FCECA92B1F}|MiscIncome_Tests\\MiscIncome_Tests.csproj|c:\\users\\manjunathk\\desktop\\miscincome\\miscincome_tests\\depositquerytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B70EEBCD-549F-412B-A21E-65FCECA92B1F}|MiscIncome_Tests\\MiscIncome_Tests.csproj|solutionrelative:miscincome_tests\\depositquerytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B70EEBCD-549F-412B-A21E-65FCECA92B1F}|MiscIncome_Tests\\MiscIncome_Tests.csproj|c:\\users\\manjunathk\\desktop\\miscincome\\miscincome_tests\\depositaddtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B70EEBCD-549F-412B-A21E-65FCECA92B1F}|MiscIncome_Tests\\MiscIncome_Tests.csproj|solutionrelative:miscincome_tests\\depositaddtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ADC35C5-BCC9-44E9-9DE5-F0EBCBA39D38}|MiscIncome_Lib\\MiscIncome_Lib.csproj|c:\\users\\manjunathk\\desktop\\miscincome\\miscincome_lib\\depositquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ADC35C5-BCC9-44E9-9DE5-F0EBCBA39D38}|MiscIncome_Lib\\MiscIncome_Lib.csproj|solutionrelative:miscincome_lib\\depositquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DepositQueryTest.cs",
+              "DocumentMoniker": "C:\\Users\\ManjunathK\\Desktop\\MiscIncome\\MiscIncome_Tests\\DepositQueryTest.cs",
+              "RelativeDocumentMoniker": "MiscIncome_Tests\\DepositQueryTest.cs",
+              "ToolTip": "C:\\Users\\ManjunathK\\Desktop\\MiscIncome\\MiscIncome_Tests\\DepositQueryTest.cs",
+              "RelativeToolTip": "MiscIncome_Tests\\DepositQueryTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T02:31:09.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DepositAddTests.cs",
+              "DocumentMoniker": "C:\\Users\\ManjunathK\\Desktop\\MiscIncome\\MiscIncome_Tests\\DepositAddTests.cs",
+              "RelativeDocumentMoniker": "MiscIncome_Tests\\DepositAddTests.cs",
+              "ToolTip": "C:\\Users\\ManjunathK\\Desktop\\MiscIncome\\MiscIncome_Tests\\DepositAddTests.cs",
+              "RelativeToolTip": "MiscIncome_Tests\\DepositAddTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T02:30:24.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DepositQuery.cs",
+              "DocumentMoniker": "C:\\Users\\ManjunathK\\Desktop\\MiscIncome\\MiscIncome_Lib\\DepositQuery.cs",
+              "RelativeDocumentMoniker": "MiscIncome_Lib\\DepositQuery.cs",
+              "ToolTip": "C:\\Users\\ManjunathK\\Desktop\\MiscIncome\\MiscIncome_Lib\\DepositQuery.cs",
+              "RelativeToolTip": "MiscIncome_Lib\\DepositQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T02:29:25.383Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
