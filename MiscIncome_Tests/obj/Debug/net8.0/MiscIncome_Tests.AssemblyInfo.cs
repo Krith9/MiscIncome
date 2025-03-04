@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MiscIncome_Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0deaf12e928c905ee4f817725620fe49e95f5edd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+817714fe28fe669faf9c26f33e8367b8769f8b0b")]
 [assembly: System.Reflection.AssemblyProductAttribute("MiscIncome_Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MiscIncome_Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
