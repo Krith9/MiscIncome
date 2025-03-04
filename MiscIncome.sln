@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiscIncome_CLI", "MiscIncome_CLI\MiscIncome_CLI.csproj", "{B8828126-CD51-4AE8-8854-F36671E1E2B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiscIncome_Lib", "MiscIncome_Lib\MiscIncome_Lib.csproj", "{A4A13719-4318-428B-A30C-32336C4C8BA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiscIncome_Tests", "MiscIncome_Tests\MiscIncome_Tests.csproj", "{31044045-F66D-410E-8BD0-B16FAEBB89EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8828126-CD51-4AE8-8854-F36671E1E2B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8828126-CD51-4AE8-8854-F36671E1E2B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8828126-CD51-4AE8-8854-F36671E1E2B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8828126-CD51-4AE8-8854-F36671E1E2B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4A13719-4318-428B-A30C-32336C4C8BA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4A13719-4318-428B-A30C-32336C4C8BA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4A13719-4318-428B-A30C-32336C4C8BA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4A13719-4318-428B-A30C-32336C4C8BA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31044045-F66D-410E-8BD0-B16FAEBB89EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31044045-F66D-410E-8BD0-B16FAEBB89EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31044045-F66D-410E-8BD0-B16FAEBB89EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31044045-F66D-410E-8BD0-B16FAEBB89EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
