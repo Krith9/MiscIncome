@@ -19,4 +19,8 @@
     </COMReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\MiscIncome_Lib\MiscIncome_Lib.csproj" />
+  </ItemGroup>
+
 </Project>

@@ -1,0 +1,14 @@
+C:\Users\ManjunathK\Desktop\MiscIncome\MiscIncome_Lib\bin\Debug\net8.0\MiscIncome_Lib.deps.json
+C:\Users\ManjunathK\Desktop\MiscIncome\MiscIncome_Lib\bin\Debug\net8.0\MiscIncome_Lib.dll
+C:\Users\ManjunathK\Desktop\MiscIncome\MiscIncome_Lib\bin\Debug\net8.0\MiscIncome_Lib.pdb
+C:\Users\ManjunathK\Desktop\MiscIncome\MiscIncome_Lib\obj\Debug\net8.0\Interop.QBFC16Lib.dll
+C:\Users\ManjunathK\Desktop\MiscIncome\MiscIncome_Lib\obj\Debug\net8.0\MiscIncome_Lib.csproj.ResolveComReference.cache
+C:\Users\ManjunathK\Desktop\MiscIncome\MiscIncome_Lib\obj\Debug\net8.0\MiscIncome_Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ManjunathK\Desktop\MiscIncome\MiscIncome_Lib\obj\Debug\net8.0\MiscIncome_Lib.AssemblyInfoInputs.cache
+C:\Users\ManjunathK\Desktop\MiscIncome\MiscIncome_Lib\obj\Debug\net8.0\MiscIncome_Lib.AssemblyInfo.cs
+C:\Users\ManjunathK\Desktop\MiscIncome\MiscIncome_Lib\obj\Debug\net8.0\MiscIncome_Lib.csproj.CoreCompileInputs.cache
+C:\Users\ManjunathK\Desktop\MiscIncome\MiscIncome_Lib\obj\Debug\net8.0\MiscIncome_Lib.sourcelink.json
+C:\Users\ManjunathK\Desktop\MiscIncome\MiscIncome_Lib\obj\Debug\net8.0\MiscIncome_Lib.dll
+C:\Users\ManjunathK\Desktop\MiscIncome\MiscIncome_Lib\obj\Debug\net8.0\refint\MiscIncome_Lib.dll
+C:\Users\ManjunathK\Desktop\MiscIncome\MiscIncome_Lib\obj\Debug\net8.0\MiscIncome_Lib.pdb
+C:\Users\ManjunathK\Desktop\MiscIncome\MiscIncome_Lib\obj\Debug\net8.0\ref\MiscIncome_Lib.dll
